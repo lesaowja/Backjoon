@@ -66,7 +66,7 @@ public:
 
 private:
 	int size = 0;
-	int Answer[50];
+	int Answer[10000];
 
 
 };
